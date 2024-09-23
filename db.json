@@ -1,0 +1,91 @@
+{
+  "bottling": [
+    {
+      "bottling_id": 1,
+      "batch_id": 1,
+      "bottling_date": "2023-05-10",
+      "bottle_size_ml": 750,
+      "number_of_bottles": 1000,
+      "label_type": "Classic",
+      "cork_type": "Natural"
+    },
+    {
+      "bottling_id": 2,
+      "batch_id": 2,
+      "bottling_date": "2023-06-15",
+      "bottle_size_ml": 500,
+      "number_of_bottles": 1200,
+      "label_type": "Modern",
+      "cork_type": "Synthetic"
+    },
+    {
+      "bottling_id": 3,
+      "batch_id": 3,
+      "bottling_date": "2023-07-20",
+      "bottle_size_ml": 750,
+      "number_of_bottles": 950,
+      "label_type": "Vintage",
+      "cork_type": "Screw Cap"
+    },
+    {
+      "bottling_id": 4,
+      "batch_id": 4,
+      "bottling_date": "2023-08-05",
+      "bottle_size_ml": 1000,
+      "number_of_bottles": 800,
+      "label_type": "Artisan",
+      "cork_type": "Cork"
+    },
+    {
+      "bottling_id": 5,
+      "batch_id": 5,
+      "bottling_date": "2023-09-12",
+      "bottle_size_ml": 375,
+      "number_of_bottles": 1500,
+      "label_type": "Minimalist",
+      "cork_type": "Synthetic"
+    }
+  ],
+  "productionHistory": [
+    {
+      "history_id": 1,
+      "batch_id": 1,
+      "production_stage": "Bottling",
+      "start_date": "2023-01-10",
+      "end_date": "2023-05-10",
+      "notes": "Successful fermentation, stable bottling."
+    },
+    {
+      "history_id": 2,
+      "batch_id": 2,
+      "production_stage": "Aging",
+      "start_date": "2023-02-01",
+      "end_date": "2023-06-15",
+      "notes": "Good color development, slight increase in acidity."
+    },
+    {
+      "history_id": 3,
+      "batch_id": 3,
+      "production_stage": "Pressing",
+      "start_date": "2023-03-05",
+      "end_date": "2023-07-20",
+      "notes": "Smooth pressing, no significant loss of juice."
+    },
+    {
+      "history_id": 4,
+      "batch_id": 4,
+      "production_stage": "Fermentation",
+      "start_date": "2023-04-12",
+      "end_date": "2023-08-05",
+      "notes": "Fermentation took longer due to cooler temperatures."
+    },
+    {
+      "history_id": 5,
+      "batch_id": 5,
+      "production_stage": "Clarification",
+      "start_date": "2023-05-15",
+      "end_date": "2023-09-12",
+      "notes": "Clarification completed with bentonite."
+    }
+  ]
+}
