@@ -46,46 +46,66 @@
       "cork_type": "Synthetic"
     }
   ],
-  "productionHistory": [
+ "ProductionHistory": [
     {
       "history_id": 1,
       "batch_id": 1,
-      "production_stage": "Bottling",
-      "start_date": "2023-01-10",
-      "end_date": "2023-05-10",
-      "notes": "Successful fermentation, stable bottling."
+      "harvest_date": "2023-01-10",
+      "fermentation_start_date": "2023-01-15",
+      "fermentation_end_date": "2023-02-10",
+      "pressing_date": "2023-02-12",
+      "clarification_date": "2023-03-01",
+      "aging_start_date": "2023-03-10",
+      "aging_end_date": "2023-06-10",
+      "bottling_date": "2023-06-15"
     },
     {
       "history_id": 2,
       "batch_id": 2,
-      "production_stage": "Aging",
-      "start_date": "2023-02-01",
-      "end_date": "2023-06-15",
-      "notes": "Good color development, slight increase in acidity."
+      "harvest_date": "2023-02-05",
+      "fermentation_start_date": "2023-02-10",
+      "fermentation_end_date": "2023-03-05",
+      "pressing_date": "2023-03-08",
+      "clarification_date": "2023-03-20",
+      "aging_start_date": "2023-03-25",
+      "aging_end_date": "2023-07-15",
+      "bottling_date": "2023-07-20"
     },
     {
       "history_id": 3,
       "batch_id": 3,
-      "production_stage": "Pressing",
-      "start_date": "2023-03-05",
-      "end_date": "2023-07-20",
-      "notes": "Smooth pressing, no significant loss of juice."
+      "harvest_date": "2023-03-12",
+      "fermentation_start_date": "2023-03-18",
+      "fermentation_end_date": "2023-04-10",
+      "pressing_date": "2023-04-12",
+      "clarification_date": "2023-04-25",
+      "aging_start_date": "2023-05-01",
+      "aging_end_date": "2023-08-01",
+      "bottling_date": "2023-08-05"
     },
     {
       "history_id": 4,
       "batch_id": 4,
-      "production_stage": "Fermentation",
-      "start_date": "2023-04-12",
-      "end_date": "2023-08-05",
-      "notes": "Fermentation took longer due to cooler temperatures."
+      "harvest_date": "2023-04-20",
+      "fermentation_start_date": "2023-04-25",
+      "fermentation_end_date": "2023-05-20",
+      "pressing_date": "2023-05-22",
+      "clarification_date": "2023-06-05",
+      "aging_start_date": "2023-06-10",
+      "aging_end_date": "2023-09-01",
+      "bottling_date": "2023-09-05"
     },
     {
       "history_id": 5,
       "batch_id": 5,
-      "production_stage": "Clarification",
-      "start_date": "2023-05-15",
-      "end_date": "2023-09-12",
-      "notes": "Clarification completed with bentonite."
+      "harvest_date": "2023-05-15",
+      "fermentation_start_date": "2023-05-20",
+      "fermentation_end_date": "2023-06-10",
+      "pressing_date": "2023-06-12",
+      "clarification_date": "2023-06-25",
+      "aging_start_date": "2023-07-01",
+      "aging_end_date": "2023-09-25",
+      "bottling_date": "2023-10-01"
     }
   ]
 }
